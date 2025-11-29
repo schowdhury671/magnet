@@ -1,0 +1,6 @@
+I am collecting data about how to <TOPIC>
+- What are different 50 questions that must be answer by a video and cant be answered by text. 
+- Questions that can not be answered by google search and require to watch a multiple videos to reach the best steps and answers.
+- Questions rely on auditory or physical cues, things that can be observed, but without using common terms related to seeing or hearing.
+- Questions should not include keywords like video, images, visually, presenter, or instructor. 
+- Avoid directly referencing the media content itself. 

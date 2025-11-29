@@ -1,0 +1,38 @@
+Using the full video transcript as input with timestamps in seconds, automatically segment the video into distinct sections based on topic changes and instructional content. For each segment, follow these steps:
+
+1. Segment Identification:
+        - Detect natural breaks in the transcript that indicate a change in topic, exercise, or technique.
+        - Assign appropriate start and end times in the seconds-only format. Do not convert into minute:seconds.
+        - If a segment is overly long or covers multiple topics, subdivide it into smaller, more manageable segments.
+
+2. Topic and Title Assignment:
+        - Determine a concise topic and title for each segment that accurately reflects the core content or exercise discussed.
+
+3. Enhanced Instructional Details:
+        - Create a 'Details' sub-section enriched with technical, procedural, and descriptive information extracted directly from the transcript.
+        - Include all relevant details about the content covered, such as specific techniques, step-by-step procedures, key motions, and critical nuances.
+        - If related audio sound follows the text for that segment, integrate a description of it (e.g., background music cues, sound effects, or any other auditory elements) to further contextualize the instructional material.
+
+4. Content Filtering:
+        - Remove any content not directly related to the instructional material, including:
+        - Mentions of the presenter’s name or personal commentary.
+        - Introduction segments (greetings or general overviews).
+        - Advertisement segments or any promotional content.
+        - The final summary or closing remarks.
+
+Output Format:
+The output should present each segment in the following format:
+Segment [Segment Number]
+Time: [Start Seconds] --> [End Seconds]
+Title: [Concise Title]
+Details:
+   - Instructional Focus: [Brief description of the instructional focus]
+   - Key Steps and details:
+      - [Step / Detail 1]
+      - [Step / Detail 2]
+      - [Step / Detail 3]
+      - [Step / Detail 4]
+      - [Step / Detail 5]
+   - Audio Cues: [Description of any audio elements, or ""None beyond the spoken instruction.""]
+
+Each segment must use the original seconds-only timestamp format, and the 'Details' sub-section should focus solely on the instructional content derived directly from the transcript.

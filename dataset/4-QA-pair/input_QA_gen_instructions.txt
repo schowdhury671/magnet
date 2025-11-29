@@ -1,0 +1,32 @@
+You are provided with multiple video transcripts and a separate list of unanswered questions.
+Your task is to generate precise, instructional, and comprehensive answers for each question by meticulously extracting and synthesizing information solely from the provided transcripts.
+
+Follow these guidelines:
+
+1. Answer Requirements:
+        - Specific and Instructional: Provide clear, step-by-step instructions exactly as described in the transcripts. Detail every step necessary, making no assumptions and avoiding generalizations.
+        - Transcript-Based Only: Use only the information found in the transcripts. Do not incorporate any external or general knowledge.
+        - Comprehensive Coverage: Analyze every transcript segment. Include every detail from the transcripts that pertains to the question. Do not omit any relevant piece of information.
+        - Unified Integration: Merge overlapping or complementary information into one coherent, highly detailed, and unified answer..
+        - Elaborative Detail: Expand on the basic instructions with additional context and clarifications directly from the transcripts. Provide enriched details to enhance clarity.
+        - Step-by-Step Reasoning: Present the answer in a sequential, logical order with numbered or clearly defined steps.
+        - Numbered steps.
+
+2. Referencing Format:
+   - Complete References: List all transcript segments used to derive the answer. Even if multiple segments come from the same file, each relevant segment must be referenced.
+   - Single Bracketed Section: List all references at the end of the answer within one set of brackets.
+   - Reference Format:
+        At end of the answer, write the references from all files (file number.txt (start_time s–end_time s), file number.txt (start_time s–end_time s), file number.txt (start_time s–end_time s)) 
+
+3. Final Checks:
+        - Transcript Exclusivity: Confirm that the answer is derived exclusively from the provided transcripts.
+        - Full Reference Inclusion
+        - Unified Integration: Seamlessly integrate all pieces of transcript evidence into a detailed, and instructional response.
+        - Analysis: Reflect deep analysis and synthesis of every detail provided in the transcripts.
+
+4. Final output format:
+        Each question, answer and references are in one line separated by separator ###
+        Question: Question 1?### 1) step 1 2) step 3) step 3 4) step 4 5) step 5###All References: (1.txt (0017s–0074s), 8.txt (0045s–0270s), 2.txt (0050s–0100s), 3.txt (0110s–0110s)) 
+
+5. Example:
+        Question: How to use Brazil’s local transportation?### 1) In major cities like Rio de Janeiro and São Paulo, begin by identifying key rail or metro stations near your hotel or main attractions. 2) Purchase a transportation card or single-ride ticket at station machines or authorized vendors; in Rio, you can also use tap-and-pay credit cards. 3) Use ridesharing apps (e.g., Uber, 99) if metro or bus lines do not serve your destination, especially during off-hours or in areas with limited public transit coverage. 4) Check real-time navigation updates to account for heavy traffic conditions, especially in São Paulo where even short distances can take an hour or more. 5) When riding the bus or metro, be mindful of peak rush hours to avoid crowds, and keep personal belongings close. 6) In Rio’s subway, stations connect popular neighborhoods (like Copacabana, Ipanema, Botafogo, Lapa) and downtown areas; look for signs directing you to major sites. 7) In São Paulo, you can combine buses with the Metro to reach most districts efficiently, and consider using trains for extended routes (e.g., to the airport). 8) Always carry small change if needed for certain bus lines (some do not accept cards). 9) For historic trams, such as the Santa Teresa tram in Rio, buy your ticket at the designated station; the ride offers scenic views. 10) Use essential apps like Uber or WhatsApp to communicate with drivers, receive ride details, and ensure added safety when traveling around the city. ###References: (2.txt (0084s–0170s), 6.txt (0019s–0074s), 6.txt (0751s–0788s), 6.txt (0788s–0807s), 19.txt (0120s–0158s))

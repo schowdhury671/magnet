@@ -1,0 +1,4 @@
+filter the questions out of the rest of the text.
+Rephrase the question to make sure that the word Chinese exists in the middle of the question as this is the topic of question.
+write all questions inside a 
+``` ``` snippet.
