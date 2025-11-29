@@ -1,0 +1,82 @@
+[
+  {
+    "id": "3",
+    "question": "What are the precise techniques for filleting and deboning various types of fish?",
+    "answer": "(Salmon example) 1) Use a broad, flexible knife; make a small nick at the tail end. 2) Slide the blade under the skin, twisting gently to separate. 3) Flip the fillet and remove any remaining skin pieces or pin bones with tweezers. 4) Check thoroughly for leftover bones before portioning.",
+    "timestamps": {
+      "1.txt": [
+        240,
+        296
+      ]
+    },
+    "retrieved_file": [
+      "1"
+    ],
+    "agent_answers": {
+      "1": {
+        "1__000": "Unanswerable.",
+        "1__001": "Unanswerable.",
+        "1__002": "Unanswerable.",
+        "1__003": "Unanswerable.",
+        "1__004": "[00:00:00.000 - 00:00:05.000] Flip it back over and check you're not leaving too much salmon on top of the skin. [00:00:05.000 - 00:00:10.000] Pull it back nice and slowly get the skin wrap around your fingers pull the salmon towards you and then just all the way through lay that down. [00:00:10.000 - 00:00:15.000] One nicely skinned salmon just like a perfect snakeskin. [00:00:15.000 - 00:00:20.000] Get your knife I just run the knife down and then the pair of tweezers these are fish tweezers but you can use normal tweezers. [00:00:20.000 - 00:00:25.000] Look for the head up and pull and with the skin being removed from underneath the salmon the pin bones come out a lot easier. [00:00:25.000 - 00:00:30.000] The pin bones only go to just basically halfway along the fillet. [00:00:30.000 - 00:00:35.000] One nice fillet of salmon beautiful.",
+        "1__005": "Unanswerable.",
+        "1__006": "Unanswerable.",
+        "1__007": "Unanswerable."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "question": "How exactly do you combine the pasta, guanciale, eggs, and cheese so that the sauce stays creamy?",
+    "answer": "1) Cook guanciale in a little oil until lightly browned but not crisp; remove from heat. 2) Beat eggs with cheese to form a thick paste. 3) Cook pasta al dente, reserving starchy water. 4) Off heat, toss the pasta with guanciale and the egg-cheese mixture, adding a ladle of pasta water. 5) Stir confidently until creamy.",
+    "timestamps": {
+      "0.txt": [
+        428,
+        491
+      ]
+    },
+    "retrieved_file": [
+      "0"
+    ],
+    "agent_answers": {
+      "0": {
+        "0__000": "Unanswerable.",
+        "0__001": "Unanswerable.",
+        "0__002": "Unanswerable.",
+        "0__003": "Unanswerable.",
+        "0__004": "Unanswerable.",
+        "0__005": "[00:00:00.00-00:00:05.00]The chef is making a paste out of cheese and eggs.",
+        "0__006": "[00:14 - 00:20] He adds the egg and cheese mixture, pasta water, and tosses it.",
+        "0__007": "Unanswerable.",
+        "0__008": "Unanswerable."
+      }
+    }
+  },
+  {
+    "id": "12",
+    "question": "How does the color and texture look when it\u2019s \u201clightly browned but not crispy,\u201d and how do you keep it at that stage?",
+    "answer": "1) Observe pale golden edges with minimal crunch. 2) Turn off the heat once the hue is golden but still flexible. 3) Monitor continuously; if heat remains too high, it\u2019ll over-crisp.",
+    "timestamps": {
+      "0.txt": [
+        194,
+        261
+      ]
+    },
+    "retrieved_file": [
+      "0"
+    ],
+    "agent_answers": {
+      "0": {
+        "0__000": "Unanswerable.",
+        "0__001": "Unanswerable.",
+        "0__002": "Unanswerable.",
+        "0__003": "Unanswerable.",
+        "0__004": "Unanswerable.",
+        "0__005": "Unanswerable.",
+        "0__006": "Unanswerable.",
+        "0__007": "Unanswerable.",
+        "0__008": "Unanswerable."
+      }
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "question": "A barking dog",
+    "answer": "filename: 2",
+    "timestamps": {
+      "2.txt": [
+        0,
+        17
+      ]
+    },
+    "retrieved_file": [
+      "2"
+    ],
+    "agent_answers": {
+      "2": "Well, it seems like you've got a barking dog there. Dogs bark for all sorts of reasons. Maybe it's barking at a stranger or an intruder. Or it could just be excited about something like a new toy or a person coming home. If you want to know more about why your dog is barking, you could try to figure out what's going on around it. What do you think is making your dog bark?"
+    }
+  },
+  {
+    "id": "2",
+    "question": "A car",
+    "answer": "filename: 1",
+    "timestamps": {
+      "1.txt": [
+        0,
+        12
+      ]
+    },
+    "retrieved_file": [
+      "1"
+    ],
+    "agent_answers": {
+      "1": "Well, it seems like you've got a blue car in the picture. It's got a cool look to it, with a racing stripe and a big spoiler on the back. The car is on a road, and there are some other cars around it. The horn is honking a few times. Maybe it's in a race or just cruising around. What do you think about the car?"
+    }
+  },
+  {
+    "id": "3",
+    "question": "A bird",
+    "answer": "filename: 0",
+    "timestamps": {
+      "0.txt": [
+        0,
+        24
+      ]
+    },
+    "retrieved_file": [
+      "0"
+    ],
+    "agent_answers": {
+      "0": "\u55ef\uff0c\u8fd9\u9e1f\u513f\u770b\u8d77\u6765\u5f88\u7279\u522b\u5462\u3002\u5b83\u7684\u7fbd\u6bdb\u989c\u8272\u7279\u522b\u9c9c\u8273\uff0c\u6709\u84dd\u8272\uff0c\u7c89\u8272\uff0c\u68d5\u8272\u8fd9\u4e9b\u3002\u5b83\u7ad9\u5728\u6811\u679d\u4e0a\uff0c\u597d\u50cf\u5728\u89c2\u5bdf\u5468\u56f4\u3002\u4f60\u5bf9\u8fd9\u79cd\u9e1f\u611f\u5174\u8da3\u5417\u3002"
+    }
+  }
+]

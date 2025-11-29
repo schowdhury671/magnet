@@ -1,0 +1,44 @@
+[
+  {
+    "id": "3",
+    "question": "What are the precise techniques for filleting and deboning various types of fish?",
+    "answer": "(Salmon example) 1) Use a broad, flexible knife; make a small nick at the tail end. 2) Slide the blade under the skin, twisting gently to separate. 3) Flip the fillet and remove any remaining skin pieces or pin bones with tweezers. 4) Check thoroughly for leftover bones before portioning.",
+    "timestamps": {
+      "1.txt": [
+        240,
+        296
+      ]
+    },
+    "retrieved_file": [
+      "0"
+    ]
+  },
+  {
+    "id": "8",
+    "question": "How exactly do you combine the pasta, guanciale, eggs, and cheese so that the sauce stays creamy?",
+    "answer": "1) Cook guanciale in a little oil until lightly browned but not crisp; remove from heat. 2) Beat eggs with cheese to form a thick paste. 3) Cook pasta al dente, reserving starchy water. 4) Off heat, toss the pasta with guanciale and the egg-cheese mixture, adding a ladle of pasta water. 5) Stir confidently until creamy.",
+    "timestamps": {
+      "0.txt": [
+        428,
+        491
+      ]
+    },
+    "retrieved_file": [
+      "2"
+    ]
+  },
+  {
+    "id": "12",
+    "question": "How does the color and texture look when it\u2019s \u201clightly browned but not crispy,\u201d and how do you keep it at that stage?",
+    "answer": "1) Observe pale golden edges with minimal crunch. 2) Turn off the heat once the hue is golden but still flexible. 3) Monitor continuously; if heat remains too high, it\u2019ll over-crisp.",
+    "timestamps": {
+      "0.txt": [
+        194,
+        261
+      ]
+    },
+    "retrieved_file": [
+      "0"
+    ]
+  }
+]
