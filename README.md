@@ -1,4 +1,4 @@
-## <img src="assets/logo.png" width="50"/> MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks <span style="color:red"?[Neurips 2025]</span>
+## <img src="assets/logo.png" width="50"/> MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks <span style="color:red"?>[Neurips 2025]</span>
 
 MAGNET is a multi-agent audio-visual reasoning framework designed for temporal, causal, and multi-hop retrieval across long video haystacks. This repository contains the official implementation, datasets, evaluation metrics, and resources used in the paper.
 
