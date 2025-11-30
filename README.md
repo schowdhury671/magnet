@@ -1,4 +1,4 @@
-# <img src="assets/logo.png" width="50"/> MAGNET: Multi-Agent Grounded Navigation for Evidence Tracking
+## <img src="assets/logo.png" width="50"/> MAGNET: Multi-Agent Grounded Navigation for Evidence Tracking
 
 MAGNET is a multi-agent audio-visual reasoning framework designed for temporal, causal, and multi-hop retrieval across long video haystacks. This repository contains the official implementation, datasets, evaluation metrics, and resources used in the paper.
 
